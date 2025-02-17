@@ -36,6 +36,10 @@ div.desc {
   text-align: center !important;
 }
 
+.row>*{
+ min-width: 40%;
+}
+
 * {
   box-sizing: border-box;
 }
