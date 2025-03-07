@@ -36,9 +36,6 @@ div.desc {
   text-align: center !important;
 }
 
-.row>*{
- min-width: 40%;
-}
 
 * {
   box-sizing: border-box;
@@ -68,3 +65,8 @@ div.desc {
   display: table;
   clear: both;
 }
+
+.border_clasicos_mayores {
+  border: none !important;
+}
+
